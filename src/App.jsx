@@ -7,7 +7,7 @@ function App() {
     <>
       <div>
         <ParticlesBg type="cobweb" bg={true} />
-        <div className="p-5 sm:p-10 md:p-20 pb-3 pt-10 min-w-fit flex flex-col items-center justify-center bg-neutral-900 opacity-80">
+        <div className="p-5 sm:p-10 md:p-20 pb-3 pt-10 min-w-fit flex flex-col items-center justify-center bg-neutral-900 opacity-95">
           <div className="avatar mb-4 flex justify-center items-center">
             <div className="w-32 h-32 sm:w-40 sm:h-40 rounded-full ring ring-primary ring-offset-base-100 ring-offset-2 flex justify-center items-center">
               <img
