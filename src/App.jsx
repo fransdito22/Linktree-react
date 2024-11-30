@@ -32,7 +32,7 @@ function App() {
               Visit My GitHub
             </a>
             <a
-              href="https://www.linkedin.com/in/frans-dito/"
+              href="https://www.linkedin.com/in/frans-dito-244921261/"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-blue-400 rounded-md p-3 hover:text-black hover:bg-blue-300"
@@ -43,9 +43,17 @@ function App() {
               href="https://www.instagram.com/frns_dito/"
               target="_blank"
               rel="noopener noreferrer"
-              className="bg-purple-400 rounded-md p-3 hover:text-black hover:bg-purple-300"
+              className="bg-orange-400 rounded-md p-3 hover:text-black hover:bg-orange-300"
             >
               Follow Me on Instagram
+            </a>
+            <a
+              href="https://web.facebook.com/dito.ardiansyah.33"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-blue-700 rounded-md p-3 hover:text-black hover:bg-blue-600"
+            >
+              See More on Facebook
             </a>
           </div>
           <p className="p-3 mt-10 mb-0 text-center">© 2023 FRNSS. All rights reserved.</p>
